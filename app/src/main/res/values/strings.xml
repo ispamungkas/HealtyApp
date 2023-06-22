@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HealtyApp</string>
+    <string name="search">Search</string>
+    <string name="invension">Invension</string>
+    <string name="nature_meditation">Nature Meditation</string>
+    <string name="align_your_body">Align Your Body</string>
+    <string name="favorite_collection">Favorite Collection</string>
+</resources>
